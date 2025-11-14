@@ -1,5 +1,5 @@
 ## Hi there 👋
-🎓 Computer Systems Engineering student (Year 2) 
+🎓 Computer Systems Engineering student (2ed Year) 
 <!--
 **reemnqunniesA/reemnqunniesA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
