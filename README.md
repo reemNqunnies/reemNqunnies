@@ -4,11 +4,12 @@
 
 <div style="font-family: 'Press Start 2P', monospace; text-align: center;">
 
-`Hi there 👋`
- <code>🎓 Computer Systems Engineering student (2nd Year)</code>
- > ## Hi there 👋
-> 🎓 Computer Systems Engineering student (2nd Year)
-   <br>
+<div align="center">
+
+  <h2>Hello World! 👋</h2>
+  <p><b><em>🎓 Computer Systems Engineering student (2nd Year)</em></b></p>
+  <br>
   <img src="imm.jpg" width="600" alt="My Image">
 
+</div>
 </div>
