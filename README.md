@@ -4,9 +4,11 @@
 
 <div style="font-family: 'Press Start 2P', monospace; text-align: center;">
 
-  <h2 style="font-size: 24px;">Hi there 👋</h2>
-  <p style="font-size: 16px; line-height: 1.6;">🎓 Computer Systems Engineering student (2nd Year)</p>
-  <br>
+`Hi there 👋`
+ <code>🎓 Computer Systems Engineering student (2nd Year)</code>
+ > ## Hi there 👋
+> 🎓 Computer Systems Engineering student (2nd Year)
+   <br>
   <img src="imm.jpg" width="600" alt="My Image">
 
 </div>
