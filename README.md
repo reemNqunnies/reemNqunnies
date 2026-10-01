@@ -7,6 +7,6 @@
   <h2 style="font-size: 24px;">Hi there 👋</h2>
   <p style="font-size: 16px; line-height: 1.6;">🎓 Computer Systems Engineering student (2nd Year)</p>
   <br>
-  <img src="imm.jpg" width="300" alt="My Image">
+  <img src="imm.jpg" width="600" alt="My Image">
 
 </div>
